@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Kingston, and I am a Undergraduate Mechanical Engineering student @South Seattle College. I love building things from start to finish, bringing ideas to life, and creating practical solutions through projects and automation.
+
+- 🔭 I’m currently leveling up my CAD and mechanical design skills.
+- 🌱 Recent project: Tic-Tac-Toe game, check it out here.
+- 💻 Skills : Mechanical Design, CAD, Python, 3D Modeling, Automation
+- 📫 Reach me: Kingston.Darocy@gmail.com or [Linkedln | Kingston Darocy](https://www.linkedin.com/in/kingston-darocy-251a342a9/)
 <!--
 **KingstonDarocy/KingstonDarocy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
